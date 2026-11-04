@@ -1,0 +1,18 @@
+LTspice 24.1.5 for Windows
+Circuit: C:\Users\jerem\OneDrive\Desktop\ELEC2300 Design\Draft2.net
+Start Time: Mon Feb  9 04:26:16 2026
+solver = Normal
+Maximum thread count: 16
+tnom = 27
+temp = 27
+method = trap
+WARNING: Node u2:n005 is floating.
+
+Direct Newton iteration for .op point succeeded.
+Total elapsed time: 0.058 seconds.
+
+Files loaded:
+C:\Users\jerem\OneDrive\Desktop\ELEC2300 Design\Draft2.net
+C:\Users\jerem\AppData\Local\LTspice\lib\cmp\standard.dio
+C:\Users\jerem\AppData\Local\LTspice\lib\sub\LT1083.lib
+
